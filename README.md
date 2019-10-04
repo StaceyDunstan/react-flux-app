@@ -1,3 +1,13 @@
+## Stacey Notes
+
+Remember npm runs scripts in the package.json
+Use babeljs.io for testing jsx
+
+## Install for dev environment
+
+npm install flux@3.1.3 react-router-dom@5.0.0 bootstrap@4.3.1
+npm install -D cross-env@5.2.0 npm-run-all@4.1.5 json-server@0.15.0
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
